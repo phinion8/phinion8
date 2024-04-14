@@ -34,7 +34,7 @@ With over 1.5 years of experience in Android development, I’ve contributed to 
 
 <p align="left">
       <a href="https://github.com/phinion8?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/phinion8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=FOLLOW ME ON GITHUB&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/phinion8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=FOLLOW ME ON GITHUB&logoColor=white" style="padding-left:20px;"/></a>
       <a href="https://www.youtube.com/@dayscode5802">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCzHMn0D9VsTW36BRMUF0pHg?color=%23E05D44&label=SUBSCRIBE TO MY YOUTUBE CHANNEL&logo=video&logoColor=white&style=for-the-badge&labelColor=f55f5f"/></a> 
       <a href="https://www.youtube.com/@dayscode5802">
