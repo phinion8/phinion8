@@ -7,7 +7,7 @@
 **`Flutter Developer`**
 **`UI/UX Designer`**
 
-With over 1.5 years of experience in Android development, I’ve contributed to more than 20 projects and earned a stellar 4.8-star rating on Fiverr. My expertise includes designing and developing custom Android applications. I excel in coding, debugging, and optimizing for performance and user experience. I am enthusiastic about exploring new technologies and continuously enhancing my skills to deliver innovative solutions.
+With over 2 years of internship experience in Android development, I’ve contributed to more than 20 projects and earned a stellar 4.8-star rating on Fiverr. My expertise includes designing and developing custom Android applications. I excel in coding, debugging, and optimizing for performance and user experience. I am enthusiastic about exploring new technologies and continuously enhancing my skills to deliver innovative solutions.
 
    ### 🕵️ Languages and tools that I have worked with
 
