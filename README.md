@@ -4,8 +4,6 @@
 - 📫 How to reach me priyanshu831780@gmail.com...
 
 **`Android Developer`**
-**`Flutter Developer`**
-**`UI/UX Designer`**
 
 Experienced Android Developer with 1.5 years of internship experience in building and troubleshooting Android apps. Skilled in Kotlin, Jetpack Compose, XML, and MVVM architecture. Hands-on experience with Firebase, Dagger Hilt, Retrofit, and Room DB. Proven track record of improving app stability, reducing crashes, and creating user-friendly interfaces.
 
